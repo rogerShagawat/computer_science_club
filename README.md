@@ -10,7 +10,7 @@ Format for uploading projects
 -----------------------------------
 rename your project folder to this format
 
-yourFullName_YYMMDD_projectName
+YourFullName_YYMMDD_projectName
 
 yourFullName might look like this: RogerShagawat
 
@@ -22,8 +22,12 @@ projectName might look like this: flappyBird
 How to upload your project
 ------------------------------------
 click upload files
+
 find the your project folder on your computer
+
 drag it on to add it to the repository
+
 make sure "Commit directly to the master branch" is selected
+
 commit your changes
 
