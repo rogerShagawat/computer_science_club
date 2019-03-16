@@ -8,7 +8,7 @@ Rules
 
 Format for uploading projects
 -----------------------------------
-rename your project folder to this format
+rename your project folder to this format\n
 yourFullName_YYMMDD_projectName
 yourFullName might look like this: RogerShagawat
 YYMMDD might look like this (YY for year, MM for month, DD for day): 190316
