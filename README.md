@@ -1,5 +1,5 @@
 # computer_science_club
-A place to share your processing creations or whatever else you want to share
+A place to share your processing creations or whatever other coding projects you want to share
 
 Rules
 --------------------------------
