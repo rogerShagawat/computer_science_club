@@ -6,13 +6,14 @@ Rules
 1. do not alter anybody elses projects without their permission
 2. do not create alternate branches unless you are working with somebody else
 
-Format for uploading projects
+Format for uploading projects ( rename your project folder to this format )
 -----------------------------------
-rename your project folder to this format
 
 YourFullName_YYMMDD_projectName
 
 yourFullName might look like this: RogerShagawat
+
+or in a group it might be : RogerMichaelManav
 
 YYMMDD might look like this (YY for year, MM for month, DD for day): 190316
 
