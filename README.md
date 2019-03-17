@@ -24,7 +24,7 @@ How to upload your project
 ------------------------------------
 click upload files
 
-find the your project folder on your computer
+find your project folder on your computer
 
 drag it on to add it to the repository
 
